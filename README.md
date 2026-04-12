@@ -39,7 +39,7 @@
 </div>
 
 <!-- СТАТИСТИКА -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IklilIlm&theme=radical)
+![GitHub Stats](https://card.shiina.xyz/card/IklilIlm?bg_color=0D1117&title_color=2D9C7C&text_color=ffffff&icon_color=2D9C7C&border_color=2D9C7C&hide_border=true)
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IklilIlm&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=2D9C7C&line=2D9C7C&point=ffffff&area=true" alt="Activity Graph" />
