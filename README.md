@@ -39,10 +39,11 @@
 </div>
 
 <!-- СТАТИСТИКА -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IklilIlm&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=2D9C7C&title_color=2D9C7C&text_color=ffffff" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IklilIlm&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2D9C7C&text_color=ffffff" />
-</div>
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=IklilIlm&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)&color=2c3e50&screen_effect=false">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=IklilIlm&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%232aeeff%2C%20%235580eb)&color=ffffff">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=IklilIlm&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)&color=2c3e50&screen_effect=false">
+</picture>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IklilIlm&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=2D9C7C&line=2D9C7C&point=ffffff&area=true" alt="Activity Graph" />
