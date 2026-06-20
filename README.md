@@ -33,7 +33,7 @@
       <img src="assets/icons/DesignMedia/Photoshop.png" width="40" height="40" alt="Photoshop" />
       <img src="assets/icons/DesignMedia/premiere.png" width="40" height="40" alt="Premiere Pro" />
       <img src="assets/icons/DesignMedia/ae.png" width="40" height="40" alt="After Effects" />
-      <img src="assets/icons/DesignMedia/blender.png" width="40" height="40" alt="Blender" />
+      <!--<img src="assets/icons/DesignMedia/blender.png" width="40" height="40" alt="Blender" /> -->
     </div>
   </div>
 </div>
